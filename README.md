@@ -24,7 +24,6 @@ none
 ## License
 Licensed using GNU LGPLv3. More information can be found at https://www.gnu.org/licenses/gpl-3.0
 ## Github
-Checkout my github here  https://github.com/rsternik
-## Contact
-If you have any questions please email me at rsternik.wg@gmail.com
+Checkout my github here  https://github.com/maddogx2x
+
 
